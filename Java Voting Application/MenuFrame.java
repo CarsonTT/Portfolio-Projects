@@ -78,7 +78,7 @@ public class MenuFrame extends JFrame {
         this.donationsTotal = 0.0;
         this.voting = votingFrame();
         
-        setTitle("Voting System - Carson Truong - 68959325");
+        setTitle("Voting System - Carson Truong");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         setupMenu();
